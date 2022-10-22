@@ -13,6 +13,7 @@
 - SQL
 - Linux terminal (GitBash) commands
 - Git
+- JavaScript
 
 Запушить все ветки на внешний репозиторий.
 Синхронизировать Внешнюю и Локальную ветки Main
