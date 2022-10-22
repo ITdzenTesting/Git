@@ -11,6 +11,8 @@
 - CheckLists
 - Bag Reports
 - SQL
+- Linux terminal (GitBash) commands
+- Git
 
 Запушить все ветки на внешний репозиторий.
 Синхронизировать Внешнюю и Локальную ветки Main
