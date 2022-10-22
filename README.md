@@ -8,8 +8,7 @@
 
 На локальном репозитории сделать ветки для:
 - Postman
-- CheckLists
-- Bag Reports
+- Test artifacts
 - SQL
 - Linux terminal (GitBash) commands
 - Git
